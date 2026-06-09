@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🌐 *[kishore-p-sales-dashboard.vercel.app](https://kishore-p-sales-dashboard.vercel.app/)*
+🌐 **[kishore-p-sales-dashboard.vercel.app](https://kishore-p-sales-dashboard.vercel.app/)**
 
 ---
 
