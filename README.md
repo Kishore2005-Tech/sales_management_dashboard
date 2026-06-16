@@ -17,7 +17,7 @@
 
 ## 📸 Preview
 
-> Upload your Pipedrive CRM CSV export and instantly get actionable analytics — no backend, no setup, just results.
+> **Upload your Pipedrive CRM CSV export and instantly get actionable analytics — no backend, no setup, just results.**
 
 ---
 
