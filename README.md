@@ -46,7 +46,7 @@
 
 ---
 
-## 📂 Project Structure
+## 📂 **Project Structure**
 
 ```
 sales-dashboard/
