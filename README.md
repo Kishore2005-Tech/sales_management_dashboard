@@ -109,7 +109,7 @@ npm start
 1. **Export your data** — From Pipedrive CRM, export your deals as a `.csv` file
 2. **Upload the CSV** — Drag and drop the file onto the dashboard upload zone
 3. **Explore analytics** — Pipeline stages, deal values, and rep performance populate automatically
-4. Filter & drill down — Use the filter bar to slice by stage, salesperson, or date range
+4. **Filter & drill down** — Use the filter bar to slice by stage, salesperson, or date range
 
 ### Supported CSV Format
 
