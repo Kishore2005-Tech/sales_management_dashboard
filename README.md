@@ -23,7 +23,7 @@
 
 ## ✨ Features
 
-- 📁 **CSV Upload & Parsing** — Drag-and-drop or browse to upload Pipedrive CRM exports; data is parsed and visualized instantly
+- 📁 CSV Upload & Parsing— Drag-and-drop or browse to upload Pipedrive CRM exports; data is parsed and visualized instantly
 - 🏗️ **Pipeline Stage Visualization** — See deals distributed across every stage of your sales funnel
 - 👥 **Salesperson Performance Tracking** — Compare reps by deal count, value, and win rate at a glance
 - 💰 **Deal Value Analytics** — Aggregate and breakdown deal values across stages, owners, and time periods
